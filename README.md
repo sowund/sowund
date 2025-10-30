@@ -1,6 +1,6 @@
-                                                                                  # 👋 Hi, I'm Sowundarya!
+ # 👋 Hi, I'm Sowundarya!
 
-                                      🎓 I'm a 3rd-year Computer Science and Engineering student passionate about building full-stack web applications and data-driven solutions.
+🎓 I'm a 3rd-year Computer Science and Engineering student passionate about building full-stack web applications and data-driven solutions.
 
 💻 I enjoy exploring:
 
