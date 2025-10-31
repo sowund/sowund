@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Sowundarya!
 
-🎓 I'm a 3rd-year Computer Science and Engineering student passionate about building full-stack web applications and data-driven solutions.
+🎓 Pre final year Computer Science and Engineering student passionate about building full-stack web applications and data-driven solutions.
 ### 👁️ Profile Views
 ![](https://komarev.com/ghpvc/?username=sowund&label=Profile%20Views&color=0e75b6&style=flat)
 
