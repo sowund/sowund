@@ -1,6 +1,26 @@
  # 👋 Hi, I'm Sowundarya!
 
 🎓 I'm a 3rd-year Computer Science and Engineering student passionate about building full-stack web applications and data-driven solutions.
+### 👁️ Profile Views
+![](https://komarev.com/ghpvc/?username=sowund&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+### 📊 GitHub Stats
+![Sowundarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowund&show_icons=true&theme=tokyonight)
+
+---
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowund&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowund&theme=tokyonight)
+
+---
+
 
 💻 I enjoy exploring:
 
