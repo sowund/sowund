@@ -6,10 +6,28 @@
 
 ---
 
+### 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/0j6mqXt2vx?theme=dark&font=Karma&ext=contest)
+
+
+---
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowund&layout=compact&theme=tokyonight)
+
+---
 ### 📊 GitHub Stats
 ![Sowundarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowund&show_icons=true&theme=tokyonight)
 
 ---
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowund&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-sowund-black?style=flat&logo=github)](https://github.com/sowund)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sowundarya%20R-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
 ### 💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowund&layout=compact&theme=tokyonight)
@@ -24,7 +42,7 @@
 
 💻 I enjoy exploring:
 
-- Full Stack Development (React.js, Node.js, Express, MongoDB)
+- Full Stack Development (React.js, Node.js, Express, MySQL)
 
 - OOPS, DSA, Java, Python, Database Systems
 
