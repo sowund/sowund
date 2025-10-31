@@ -20,10 +20,7 @@
 ![Sowundarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowund&show_icons=true&theme=tokyonight)
 
 ---
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowund&theme=tokyonight)
 
----
 
 ### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-sowund-black?style=flat&logo=github)](https://github.com/sowund)
