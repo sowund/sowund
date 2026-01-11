@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/0j6mqXt2vx?theme=dark&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcode.com/u/Sowundarya/)
 
 
 ---
