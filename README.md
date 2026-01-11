@@ -15,17 +15,17 @@
 ---
 
 ### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowund&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowund&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowund&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowund&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowund&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sowund&theme=tokyonight)
 
 ---
 
