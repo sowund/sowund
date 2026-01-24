@@ -37,9 +37,9 @@
 
 ## 💻 Technical Interests
 
-- Full Stack Development (**React.js, Node.js, Express, MySQL**)
+- Full Stack Development (**React.js, Node.js, Express, MongoDB**)
 - **OOPS, DSA, Java, Python, DBMS**
-- **Machine Learning**
+  
 
 ---
 
